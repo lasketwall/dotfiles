@@ -26,3 +26,7 @@ My dotfiles for macOS
 - Homebrewをインストールし、Brewfileで管理しているパッケージやアプリケーションのインストール
 - macOS のデフォルト設定を変更する(`setdefault`)
 - gitのconfigの変更を行う
+
+## 参考
+
+* [holman/dotfiles](https://github.com/holman/dotfiles)
