@@ -1,0 +1,38 @@
+# install directory
+cask_args appdir: '/Applications'
+
+# tapping formula
+#
+
+# packages
+#brew 'mas'
+
+## browser
+cask 'google-chrome'
+cask 'firefox'
+
+## terminal
+cask 'iterm2'
+cask 'docker'
+
+# editor
+cask 'visual-studio-code'
+#cask 'emacs'
+
+## utility
+cask 'dash'
+cask 'alfred'
+cask 'contexts'
+cask '1password'
+cask 'keka'
+#cask 'appcleaner'
+#cask 'bettertouchtool'
+#cask 'cursorsense'
+#cask 'keepingyouawake'
+#cask 'karabiner-elements'
+#cask 'bartender'
+#cask 'cmd-eikana'
+
+# App Store apps
+#mas 'Magnet', id: 441258766
+#mas 'Craft'

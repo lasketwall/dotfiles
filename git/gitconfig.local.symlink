@@ -1,0 +1,5 @@
+[user]
+        name = rinko
+        email = rinko@localhost
+[credential]
+        helper = osxkeychain
