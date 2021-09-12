@@ -13,3 +13,5 @@ fi
 
 echo "› brew bundle --global"
 brew bundle --global
+echo "› brew bundle --file .Brewfile.local"
+brew bundle --file $HOME/.Brewfile.local
